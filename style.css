@@ -8,8 +8,8 @@ header {
 }
 
 .rounded-circle {
-    width: 100px;
-    height: 100px;
+    width: 130px;
+    height: 130px;
     object-fit: cover;
     border: 2px solid #6610f2;
     box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
